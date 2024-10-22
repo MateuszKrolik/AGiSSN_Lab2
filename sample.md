@@ -1,5 +1,3 @@
-# AGiSSN_Lab2
-
 Zadanie 1. Wykonac wykres funkcji z wyktadu g(x) = (x^2 - 4x + 3)^2
 na przedziale [0,4]
 korzystajac z matplotlib w notatniku Jupyter.
